@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 🚀
+# Welcome to My GitHub Profile! 🧑‍💻
 
 Hello there! I'm Caku, a passionate data enthusiast and software developer with a keen interest in Machine Learning and Artificial Intelligence.
 
